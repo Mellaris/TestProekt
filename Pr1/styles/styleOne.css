@@ -1,0 +1,145 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: none;
+
+    box-sizing: border-box;
+}
+
+body{
+    width: 1600px;
+    height: 951px;
+    font-family: cursive;
+    background-color: #FFFFFF;
+}
+
+header{
+    background-color: #F9F9F7;
+    width: 1600px;
+    height: 129px;
+
+}
+
+.headOne{
+    background-color: #474747;
+    color: #F9F9F7;
+}
+
+.img1{
+    width: 56px;
+    height: 55px;
+}
+
+.nav-logo{
+    display: flex;
+}
+
+.Logo{
+    color: #474747;
+    font-size: 46px;
+    font-family: Playfair Display;
+}
+
+nav{
+    max-width: 1200px;
+    margin-left: 151.5px;
+    padding: 2rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    margin-left: 200px;
+    gap: 3rem;
+    font-size: 16px;
+}
+
+.link a {
+    position: relative;
+    padding-bottom: 0.75rem;
+    text-decoration: none;
+    color: #2C2F24;
+}
+
+.btn{
+    font-size: 16px;
+    border-radius: 118px;
+    border-color: #2C2F24;
+    background-color: #F9F9F7;
+    width: 147px;
+    height: 48px;
+    
+}
+
+.img2{
+    display: flex;
+    position: absolute;
+}
+
+.section1{
+    
+    width: 1600px;
+    height: 802px;
+}
+
+.section2{
+    position: relative;
+    width: 667px;
+    height: 392px;
+    text-align: center;
+    top: 207px;
+    left: 447px;
+}
+
+h1{
+    font-size: 100px;
+    font-family: Playfair Display;
+    line-height: 96px;
+    color: #2C2F24;
+    font-weight: normal; 
+}
+
+.text{
+    margin-top: 32px;
+    font-size: 20px;
+    color: #2C2F24;
+}
+
+.btn2{
+    width: 163px;
+    height: 64px;
+    border-radius: 118px;
+    background-color: #AD343E;
+    border-color: #AD343E;
+    color: #FFFFFF;
+    font-size: 16px;
+}
+
+.btn3{
+    width: 163px;
+    height: 64px;
+    border-radius: 118px;
+    background-color: none;
+    border-color: #182226;
+    color: #182226;
+    font-size: 16px;
+}
+
+.butt {
+    margin-top: 40px;
+}
+
+
+h2{
+    font-family: Playfair Display;
+    font-weight: normal; 
+    font-size: 55px;
+    color: #2C2F24;
+    margin-left: 575px;
+    margin-top: 92px;
+}
